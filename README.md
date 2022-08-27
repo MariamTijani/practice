@@ -3,3 +3,5 @@
 cd practice
 git add .
 git push
+git commit -m'Sample'
+git pull
